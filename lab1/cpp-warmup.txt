@@ -1,0 +1,23 @@
+Operators
+1. i=2, j=1
+2. b
+
+References and Pointers
+1. 10 10
+2. 1764
+3. 0
+4. 0
+
+Numbers
+1. short is guaranteed to be 16 bits long across all data models (LP32, ILP32, LLP64)
+  int is guaanteed to be atleast 16 bits long and goes upto 32 bits in ILP32, LLP64 data models
+  long is guaranteed to be atleast 32 bits long across all data models
+  long long is guaranteed to be 64 bits long across all data models.
+
+2. float and double are used to sis a single precision floating type with 32 bits of memory, double offers much more precision with 64 bits of memory to store decimals.
+Value of i: 3
+
+3. signed data type stores both positive and negative numbers while unsigned data type are used for storing only positive numbers.
+Value of c: �
+
+4. Value of i: 0
